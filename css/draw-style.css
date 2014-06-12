@@ -3,3 +3,13 @@ border:1px solid;border-color:red;
 width:500px;
 #height:375px;
 }
+body {display: table; height: 100%; width: 100%;}
+
+#divcenter{
+display: table-cell;
+
+	vertical-align: middle;
+	text-align: center;
+	
+	
+}
